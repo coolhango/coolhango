@@ -2,10 +2,6 @@
 
 ###
 
-<img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczBnMzhlbGxvaTg1eHRjd2oxOGtkeWZhbjB1NTFnYzB3dWNxajRncyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0HPWUzdnc9dZMmf0pD/giphy.gif"  />
-
-###
-
 <div align="center">
   <a href="https://www.youtube.com/channel/UCCoLy0ZKSDy6Pbpc_p9Afaw" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="41" alt="youtube logo"  />
